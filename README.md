@@ -1,0 +1,2 @@
+# odevrepo
+Ödev deneme repo
